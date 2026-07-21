@@ -1,4 +1,4 @@
-# forecast-informed-cdsp
+# Forecast Informed cDSP
 
 A credibility-aware procedure for mapping forecast-informed quantities and stakeholder
 requirements onto the compromise Decision Support Problem, demonstrated on a national
