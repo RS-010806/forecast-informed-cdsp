@@ -158,7 +158,3 @@ Systems Realization Laboratory, University of Oklahoma.
 Predictions onto Satisficing Configuration Decisions." Manuscript in preparation.
 ```
 
-## License
-
-<!-- Choose a license before making the repository public. MIT is a common choice for
-     research code; CC BY 4.0 is common for accompanying data and figures. -->
