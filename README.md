@@ -170,4 +170,4 @@ Predictions onto Satisficing Configuration Decisions." Manuscript in preparation
 
 ## License
 
-<!-- Choose a license before making the repository public. -->
+MIT License
