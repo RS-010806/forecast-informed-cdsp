@@ -6,7 +6,7 @@ energy-planning decision.
 
 Computational companion to *From Forecasts to Decisions: A Credibility-Aware Procedure for
 Mapping Uncertain Predictions onto Satisficing Configuration Decisions*
-(Shah, Hajihashemi, Allen and Mistree; Systems Realization Laboratory, University of
+(Hajihashemi, Shah, Allen and Mistree; Systems Realization Laboratory, University of
 Oklahoma).
 
 ---
